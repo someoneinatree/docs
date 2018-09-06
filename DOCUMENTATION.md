@@ -1,0 +1,7 @@
+As a product of a ticket, documentation can serve a few functions:
+* Keeping track of technical debt, or compromises that were made during a piece of technical work. 
+* Documenting the decisions behind dependency choices: e.g. "we use cypress because it has features X and Y. it will be even better in version 4, when it has feature Z". this can help people keep projects up to date when they haven't been visited in a while, also possibly troubleshooting where dependencies have missing features.
+* Documenting processes behind potential common modifications that may occur. E.g., describing how form validation works so that extra fields in the future can be validated easily. Or adding routes, if there are security rules, then you can have a little part of the README that tells people how to add new routes.
+* Organizing information: github can have multiple MarkDown files, and they can be linked arbitrarily. Not just putting everything in README, but creating a useful index where people can find information. Every piece of software should have the level of documentation as the APIs we rely on, because the software we create is also used both by external users and internally other products.
+* User instructions (how to access the application, any technical requirements of the software (e.g. specific browsers))
+* Developer instructions (what do you need to install, networks you need access too, environment you need to provide). npm gives standard, accessible entrypoints to the application -- use them!
