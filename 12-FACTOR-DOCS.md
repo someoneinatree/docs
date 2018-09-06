@@ -37,7 +37,9 @@ Use a hierarchy to exhaustively, explicitly list all this knowledge (and make it
 
 (Optional) Refresh rules: depending on deployment, updating these may have immediate effects. If manual action is required first, note down (per deployment or set of deployments) how to perform that environment refresh.
 
-#### Example
+Basically, write simple "scripts" for the humans to follow for those non-technical pieces of process. Script everything.
+
+#### Example documentation
 
 ##### Simple
 
