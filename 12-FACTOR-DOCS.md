@@ -20,10 +20,10 @@ This document intends to lay out a framework for documenting [12 factor apps](ht
 1. **Admin processes** - Run admin/management tasks as one-off processes
 
 ## Template
-
+<!-- 
 ### 1. Codebase
 
-### 2. Dependencies
+### 2. Dependencies -->
 
 ### 3. Config
 
@@ -68,7 +68,7 @@ Basically, write simple "scripts" for the humans to follow for those non-technic
       * dev: TeamCity script
       * qa: CredStash
       * prod: CredStash
-
+<!-- 
 ### 4. Backing services
 
 ### 5. Build, release, run
@@ -86,3 +86,4 @@ Basically, write simple "scripts" for the humans to follow for those non-technic
 ### 11. Logs
 
 ### 12. Admin processes
+ -->
