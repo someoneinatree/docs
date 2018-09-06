@@ -1,5 +1,9 @@
 # 12 Factor App Documentation Template
 
+## Purpose
+
+This document intends to lay out a framework for documenting [12 factor apps](http://12factor.net), in a way that makes them fully maintainable and trivially debuggable. This is no easy task: traditionally, software documentation is arduous and horrible. I believe the 12 Factor App methodology could provide an interseting entrypoint into the most typical concerns when it comes to externalizing the information that fills the gaps that self-documenting code cannot.
+
 ## The 12 Factors
 
 1. **Codebase** - One codebase tracked in revision control, many deploys

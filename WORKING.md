@@ -12,7 +12,7 @@ Helpful for: debugging "don't know what i'm supposed to be doing & unsure why" f
    * Workflow (internet connection, hardware)
 * Knowledge
    * Project status
-      * Up-to-date with JIRA board
+      * Up-to-date with progress board
    * Task status
       * Up-to-date with personal Work in Progress
 * People dependent on me
@@ -20,9 +20,15 @@ Helpful for: debugging "don't know what i'm supposed to be doing & unsure why" f
       * E.g. code review
 * Depending on other people
 * Flow
+   * And now... we code
+
+## Pointers
+
+Problem: how to remember what I'm currently doing? Or, which (multiple) threads am I juggling and at which point in these am I?
+
+Computer (windows, desktop) cannot be fully trusted - Windows is not designed anywhere near that well.
 
 ## Priorities
-
 
 ## WORKFLOW improvements
 
